@@ -11,8 +11,3 @@ I use this space to practice, experiment, and improve my coding skills consisten
 ---
 
 ⭐ If you find this helpful, feel free to star the repo!
-=======
-Hi ,I am Mrinmoy Talukdar.
-I Started my journy to become an Data Scientist.
-This repository documents my daily learning,coding practice and experiments in python.
->>>>>>> 437562cb8ce7e69a5fa880c1bf61a39445797cef
