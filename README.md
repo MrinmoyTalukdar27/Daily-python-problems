@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-H🐍 Python Practice Repository
+🐍 Python Practice Repository
 
 ## 📌 About This Repository
 This repo is dedicated to strengthening my Python fundamentals and exploring commonly used libraries for data science and development.
